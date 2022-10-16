@@ -18,6 +18,7 @@
   <img align="center" alt="G_Anjoss-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="G_Anjoss-C" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="right" alt="G_Anjoss-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/973724616650534975/1030939643107090452/Pixelart_GIF_-_Pixelart_-_Discover__Share_GIFs.gif">
 </div>
   
 ## 
