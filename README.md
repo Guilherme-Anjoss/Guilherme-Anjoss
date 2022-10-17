@@ -29,6 +29,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <a href = "mailto:guilhermeanjoss_br@hotmail.com"><img src="https://img.shields.io/badge/EMail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/guilhermeanjoss" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Guilherme-Anjoss/Guilherme-Anjoss/blob/main/.github/workflows/cobrinha.yml)
  
 </div>
